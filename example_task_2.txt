@@ -1,8 +1,0 @@
-Fist string
-
-Second string
-
-Digital string
-Fist string
-Second string
-Digital string
